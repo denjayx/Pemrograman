@@ -1,0 +1,15 @@
+/media/denjay/Local Disk/Semester2/Pemrograman/calculatorApp/bin/Debug/net6.0/calculatorApp
+/media/denjay/Local Disk/Semester2/Pemrograman/calculatorApp/bin/Debug/net6.0/calculatorApp.deps.json
+/media/denjay/Local Disk/Semester2/Pemrograman/calculatorApp/bin/Debug/net6.0/calculatorApp.runtimeconfig.json
+/media/denjay/Local Disk/Semester2/Pemrograman/calculatorApp/bin/Debug/net6.0/calculatorApp.dll
+/media/denjay/Local Disk/Semester2/Pemrograman/calculatorApp/bin/Debug/net6.0/calculatorApp.pdb
+/media/denjay/Local Disk/Semester2/Pemrograman/calculatorApp/obj/Debug/net6.0/calculatorApp.csproj.AssemblyReference.cache
+/media/denjay/Local Disk/Semester2/Pemrograman/calculatorApp/obj/Debug/net6.0/calculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+/media/denjay/Local Disk/Semester2/Pemrograman/calculatorApp/obj/Debug/net6.0/calculatorApp.AssemblyInfoInputs.cache
+/media/denjay/Local Disk/Semester2/Pemrograman/calculatorApp/obj/Debug/net6.0/calculatorApp.AssemblyInfo.cs
+/media/denjay/Local Disk/Semester2/Pemrograman/calculatorApp/obj/Debug/net6.0/calculatorApp.csproj.CoreCompileInputs.cache
+/media/denjay/Local Disk/Semester2/Pemrograman/calculatorApp/obj/Debug/net6.0/calculatorApp.dll
+/media/denjay/Local Disk/Semester2/Pemrograman/calculatorApp/obj/Debug/net6.0/refint/calculatorApp.dll
+/media/denjay/Local Disk/Semester2/Pemrograman/calculatorApp/obj/Debug/net6.0/calculatorApp.pdb
+/media/denjay/Local Disk/Semester2/Pemrograman/calculatorApp/obj/Debug/net6.0/calculatorApp.genruntimeconfig.cache
+/media/denjay/Local Disk/Semester2/Pemrograman/calculatorApp/obj/Debug/net6.0/ref/calculatorApp.dll
