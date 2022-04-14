@@ -1,0 +1,15 @@
+D:\Semester2\Pemrograman\week6\LatihanClass\LatihanClass\bin\Debug\net6.0\LatihanClass.exe
+D:\Semester2\Pemrograman\week6\LatihanClass\LatihanClass\bin\Debug\net6.0\LatihanClass.deps.json
+D:\Semester2\Pemrograman\week6\LatihanClass\LatihanClass\bin\Debug\net6.0\LatihanClass.runtimeconfig.json
+D:\Semester2\Pemrograman\week6\LatihanClass\LatihanClass\bin\Debug\net6.0\LatihanClass.dll
+D:\Semester2\Pemrograman\week6\LatihanClass\LatihanClass\bin\Debug\net6.0\LatihanClass.pdb
+D:\Semester2\Pemrograman\week6\LatihanClass\LatihanClass\obj\Debug\net6.0\LatihanClass.csproj.AssemblyReference.cache
+D:\Semester2\Pemrograman\week6\LatihanClass\LatihanClass\obj\Debug\net6.0\LatihanClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester2\Pemrograman\week6\LatihanClass\LatihanClass\obj\Debug\net6.0\LatihanClass.AssemblyInfoInputs.cache
+D:\Semester2\Pemrograman\week6\LatihanClass\LatihanClass\obj\Debug\net6.0\LatihanClass.AssemblyInfo.cs
+D:\Semester2\Pemrograman\week6\LatihanClass\LatihanClass\obj\Debug\net6.0\LatihanClass.csproj.CoreCompileInputs.cache
+D:\Semester2\Pemrograman\week6\LatihanClass\LatihanClass\obj\Debug\net6.0\LatihanClass.dll
+D:\Semester2\Pemrograman\week6\LatihanClass\LatihanClass\obj\Debug\net6.0\refint\LatihanClass.dll
+D:\Semester2\Pemrograman\week6\LatihanClass\LatihanClass\obj\Debug\net6.0\LatihanClass.pdb
+D:\Semester2\Pemrograman\week6\LatihanClass\LatihanClass\obj\Debug\net6.0\LatihanClass.genruntimeconfig.cache
+D:\Semester2\Pemrograman\week6\LatihanClass\LatihanClass\obj\Debug\net6.0\ref\LatihanClass.dll
