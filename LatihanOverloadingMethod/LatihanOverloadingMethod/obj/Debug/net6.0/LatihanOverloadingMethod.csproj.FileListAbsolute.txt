@@ -1,0 +1,15 @@
+D:\Semester2\PEMROGRAMAN\LatihanOverloadingMethod\LatihanOverloadingMethod\bin\Debug\net6.0\LatihanOverloadingMethod.exe
+D:\Semester2\PEMROGRAMAN\LatihanOverloadingMethod\LatihanOverloadingMethod\bin\Debug\net6.0\LatihanOverloadingMethod.deps.json
+D:\Semester2\PEMROGRAMAN\LatihanOverloadingMethod\LatihanOverloadingMethod\bin\Debug\net6.0\LatihanOverloadingMethod.runtimeconfig.json
+D:\Semester2\PEMROGRAMAN\LatihanOverloadingMethod\LatihanOverloadingMethod\bin\Debug\net6.0\LatihanOverloadingMethod.dll
+D:\Semester2\PEMROGRAMAN\LatihanOverloadingMethod\LatihanOverloadingMethod\bin\Debug\net6.0\LatihanOverloadingMethod.pdb
+D:\Semester2\PEMROGRAMAN\LatihanOverloadingMethod\LatihanOverloadingMethod\obj\Debug\net6.0\LatihanOverloadingMethod.csproj.AssemblyReference.cache
+D:\Semester2\PEMROGRAMAN\LatihanOverloadingMethod\LatihanOverloadingMethod\obj\Debug\net6.0\LatihanOverloadingMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester2\PEMROGRAMAN\LatihanOverloadingMethod\LatihanOverloadingMethod\obj\Debug\net6.0\LatihanOverloadingMethod.AssemblyInfoInputs.cache
+D:\Semester2\PEMROGRAMAN\LatihanOverloadingMethod\LatihanOverloadingMethod\obj\Debug\net6.0\LatihanOverloadingMethod.AssemblyInfo.cs
+D:\Semester2\PEMROGRAMAN\LatihanOverloadingMethod\LatihanOverloadingMethod\obj\Debug\net6.0\LatihanOverloadingMethod.csproj.CoreCompileInputs.cache
+D:\Semester2\PEMROGRAMAN\LatihanOverloadingMethod\LatihanOverloadingMethod\obj\Debug\net6.0\LatihanOverloadingMethod.dll
+D:\Semester2\PEMROGRAMAN\LatihanOverloadingMethod\LatihanOverloadingMethod\obj\Debug\net6.0\refint\LatihanOverloadingMethod.dll
+D:\Semester2\PEMROGRAMAN\LatihanOverloadingMethod\LatihanOverloadingMethod\obj\Debug\net6.0\LatihanOverloadingMethod.pdb
+D:\Semester2\PEMROGRAMAN\LatihanOverloadingMethod\LatihanOverloadingMethod\obj\Debug\net6.0\LatihanOverloadingMethod.genruntimeconfig.cache
+D:\Semester2\PEMROGRAMAN\LatihanOverloadingMethod\LatihanOverloadingMethod\obj\Debug\net6.0\ref\LatihanOverloadingMethod.dll
