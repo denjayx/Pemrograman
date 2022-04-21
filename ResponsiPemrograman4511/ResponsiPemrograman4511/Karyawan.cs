@@ -30,13 +30,12 @@ namespace ResponsiPemrograman4511
             set { gajiBulanan = value; }
         }
 
-
         //conttructor
         public Karyawan()
         {
-            nik = Nik;
-            nama = Nama;
-            gajiBulanan = Gaji;
+            nik = 4511;
+            nama = "Paijo";
+            gajiBulanan = 3000000;
         }
 
         public void Paijo()

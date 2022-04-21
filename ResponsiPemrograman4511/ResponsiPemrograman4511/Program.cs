@@ -9,7 +9,7 @@ namespace ResponsiPemrograman4511
             Karyawan objPaijo = new Karyawan();
 
             //paijo
-            objJono.Nama = "Paijo";
+            objJono.Nama = "Jono";
             objJono.Nik = 4511;
             objJono.Gaji = 3000000;
 
