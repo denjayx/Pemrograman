@@ -1,0 +1,15 @@
+D:\Semester2\PEMROGRAMAN\ResponsiPemrograman4511\ResponsiPemrograman4511\bin\Debug\net6.0\ResponsiPemrograman4511.exe
+D:\Semester2\PEMROGRAMAN\ResponsiPemrograman4511\ResponsiPemrograman4511\bin\Debug\net6.0\ResponsiPemrograman4511.deps.json
+D:\Semester2\PEMROGRAMAN\ResponsiPemrograman4511\ResponsiPemrograman4511\bin\Debug\net6.0\ResponsiPemrograman4511.runtimeconfig.json
+D:\Semester2\PEMROGRAMAN\ResponsiPemrograman4511\ResponsiPemrograman4511\bin\Debug\net6.0\ResponsiPemrograman4511.dll
+D:\Semester2\PEMROGRAMAN\ResponsiPemrograman4511\ResponsiPemrograman4511\bin\Debug\net6.0\ResponsiPemrograman4511.pdb
+D:\Semester2\PEMROGRAMAN\ResponsiPemrograman4511\ResponsiPemrograman4511\obj\Debug\net6.0\ResponsiPemrograman4511.csproj.AssemblyReference.cache
+D:\Semester2\PEMROGRAMAN\ResponsiPemrograman4511\ResponsiPemrograman4511\obj\Debug\net6.0\ResponsiPemrograman4511.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester2\PEMROGRAMAN\ResponsiPemrograman4511\ResponsiPemrograman4511\obj\Debug\net6.0\ResponsiPemrograman4511.AssemblyInfoInputs.cache
+D:\Semester2\PEMROGRAMAN\ResponsiPemrograman4511\ResponsiPemrograman4511\obj\Debug\net6.0\ResponsiPemrograman4511.AssemblyInfo.cs
+D:\Semester2\PEMROGRAMAN\ResponsiPemrograman4511\ResponsiPemrograman4511\obj\Debug\net6.0\ResponsiPemrograman4511.csproj.CoreCompileInputs.cache
+D:\Semester2\PEMROGRAMAN\ResponsiPemrograman4511\ResponsiPemrograman4511\obj\Debug\net6.0\ResponsiPemrograman4511.dll
+D:\Semester2\PEMROGRAMAN\ResponsiPemrograman4511\ResponsiPemrograman4511\obj\Debug\net6.0\refint\ResponsiPemrograman4511.dll
+D:\Semester2\PEMROGRAMAN\ResponsiPemrograman4511\ResponsiPemrograman4511\obj\Debug\net6.0\ResponsiPemrograman4511.pdb
+D:\Semester2\PEMROGRAMAN\ResponsiPemrograman4511\ResponsiPemrograman4511\obj\Debug\net6.0\ResponsiPemrograman4511.genruntimeconfig.cache
+D:\Semester2\PEMROGRAMAN\ResponsiPemrograman4511\ResponsiPemrograman4511\obj\Debug\net6.0\ref\ResponsiPemrograman4511.dll

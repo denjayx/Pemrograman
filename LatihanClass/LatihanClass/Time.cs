@@ -9,7 +9,7 @@ namespace LatihanClass
     internal class Time
     {
         //privar variable atau field
-        private int year;
+        public int year;
         private int month;
         private int date;
         private int hour;
@@ -20,6 +20,55 @@ namespace LatihanClass
         public void DisplayCurrentTime()
         {
             Console.WriteLine("Waktu sekarang : {0}", DateTime.Now.ToString());
+        }
+        //property
+        public int Year         
+        {
+            get { return year; }
+            set { year = value; }
+        }
+        public int Month
+        {
+            get { return month; }
+            set { month = value; }
+        }
+        public int Date
+        {
+            get { return date; }
+            set { date = value; }
+        }
+        public int Hour
+        {
+            get { return hour; }
+            set { hour = value; }
+        }
+        public int Minute
+        {
+            get { return minute; }
+            set { minute = value; }
+        }
+        public int Second
+        {
+            get { return second; }
+            set { second = value; }
+        }
+        public Time()
+        {
+            year = 2018;
+            month = 10;
+            date = 10;
+            hour = 10;
+            minute = 30;
+            second = 40;
+        }
+        public Time(int year, int month, int date, int hour, int minute, int second)
+        {
+            this.year = year;
+            this.month = month;
+            this.date = date;
+            this.hour = hour;
+            this.minute = minute;
+            this.second = second;
         }
     }
 }

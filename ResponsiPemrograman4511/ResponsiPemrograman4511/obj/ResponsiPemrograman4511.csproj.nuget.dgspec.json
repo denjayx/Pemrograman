@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Semester2\\PEMROGRAMAN\\LatihanClass\\LatihanClass\\LatihanClass.csproj": {}
+    "D:\\Semester2\\PEMROGRAMAN\\ResponsiPemrograman4511\\ResponsiPemrograman4511\\ResponsiPemrograman4511.csproj": {}
   },
   "projects": {
-    "D:\\Semester2\\PEMROGRAMAN\\LatihanClass\\LatihanClass\\LatihanClass.csproj": {
+    "D:\\Semester2\\PEMROGRAMAN\\ResponsiPemrograman4511\\ResponsiPemrograman4511\\ResponsiPemrograman4511.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Semester2\\PEMROGRAMAN\\LatihanClass\\LatihanClass\\LatihanClass.csproj",
-        "projectName": "LatihanClass",
-        "projectPath": "D:\\Semester2\\PEMROGRAMAN\\LatihanClass\\LatihanClass\\LatihanClass.csproj",
+        "projectUniqueName": "D:\\Semester2\\PEMROGRAMAN\\ResponsiPemrograman4511\\ResponsiPemrograman4511\\ResponsiPemrograman4511.csproj",
+        "projectName": "ResponsiPemrograman4511",
+        "projectPath": "D:\\Semester2\\PEMROGRAMAN\\ResponsiPemrograman4511\\ResponsiPemrograman4511\\ResponsiPemrograman4511.csproj",
         "packagesPath": "C:\\Users\\Denjay\\.nuget\\packages\\",
-        "outputPath": "D:\\Semester2\\PEMROGRAMAN\\LatihanClass\\LatihanClass\\obj\\",
+        "outputPath": "D:\\Semester2\\PEMROGRAMAN\\ResponsiPemrograman4511\\ResponsiPemrograman4511\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Denjay\\AppData\\Roaming\\NuGet\\NuGet.Config",
