@@ -1,0 +1,15 @@
+/run/media/denjay/Local Disk/Semester2/@UTS/pemrograman/bin/Debug/net6.0/pemrograman
+/run/media/denjay/Local Disk/Semester2/@UTS/pemrograman/bin/Debug/net6.0/pemrograman.deps.json
+/run/media/denjay/Local Disk/Semester2/@UTS/pemrograman/bin/Debug/net6.0/pemrograman.runtimeconfig.json
+/run/media/denjay/Local Disk/Semester2/@UTS/pemrograman/bin/Debug/net6.0/pemrograman.dll
+/run/media/denjay/Local Disk/Semester2/@UTS/pemrograman/bin/Debug/net6.0/ref/pemrograman.dll
+/run/media/denjay/Local Disk/Semester2/@UTS/pemrograman/bin/Debug/net6.0/pemrograman.pdb
+/run/media/denjay/Local Disk/Semester2/@UTS/pemrograman/obj/Debug/net6.0/pemrograman.csproj.AssemblyReference.cache
+/run/media/denjay/Local Disk/Semester2/@UTS/pemrograman/obj/Debug/net6.0/pemrograman.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/denjay/Local Disk/Semester2/@UTS/pemrograman/obj/Debug/net6.0/pemrograman.AssemblyInfoInputs.cache
+/run/media/denjay/Local Disk/Semester2/@UTS/pemrograman/obj/Debug/net6.0/pemrograman.AssemblyInfo.cs
+/run/media/denjay/Local Disk/Semester2/@UTS/pemrograman/obj/Debug/net6.0/pemrograman.csproj.CoreCompileInputs.cache
+/run/media/denjay/Local Disk/Semester2/@UTS/pemrograman/obj/Debug/net6.0/pemrograman.dll
+/run/media/denjay/Local Disk/Semester2/@UTS/pemrograman/obj/Debug/net6.0/ref/pemrograman.dll
+/run/media/denjay/Local Disk/Semester2/@UTS/pemrograman/obj/Debug/net6.0/pemrograman.pdb
+/run/media/denjay/Local Disk/Semester2/@UTS/pemrograman/obj/Debug/net6.0/pemrograman.genruntimeconfig.cache
