@@ -1,0 +1,15 @@
+/run/media/denjay/Local Disk/Semester2/Pemrograman/Inheritance/bin/Debug/net6.0/Inheritance
+/run/media/denjay/Local Disk/Semester2/Pemrograman/Inheritance/bin/Debug/net6.0/Inheritance.deps.json
+/run/media/denjay/Local Disk/Semester2/Pemrograman/Inheritance/bin/Debug/net6.0/Inheritance.runtimeconfig.json
+/run/media/denjay/Local Disk/Semester2/Pemrograman/Inheritance/bin/Debug/net6.0/Inheritance.dll
+/run/media/denjay/Local Disk/Semester2/Pemrograman/Inheritance/bin/Debug/net6.0/ref/Inheritance.dll
+/run/media/denjay/Local Disk/Semester2/Pemrograman/Inheritance/bin/Debug/net6.0/Inheritance.pdb
+/run/media/denjay/Local Disk/Semester2/Pemrograman/Inheritance/obj/Debug/net6.0/Inheritance.csproj.AssemblyReference.cache
+/run/media/denjay/Local Disk/Semester2/Pemrograman/Inheritance/obj/Debug/net6.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/denjay/Local Disk/Semester2/Pemrograman/Inheritance/obj/Debug/net6.0/Inheritance.AssemblyInfoInputs.cache
+/run/media/denjay/Local Disk/Semester2/Pemrograman/Inheritance/obj/Debug/net6.0/Inheritance.AssemblyInfo.cs
+/run/media/denjay/Local Disk/Semester2/Pemrograman/Inheritance/obj/Debug/net6.0/Inheritance.csproj.CoreCompileInputs.cache
+/run/media/denjay/Local Disk/Semester2/Pemrograman/Inheritance/obj/Debug/net6.0/Inheritance.dll
+/run/media/denjay/Local Disk/Semester2/Pemrograman/Inheritance/obj/Debug/net6.0/ref/Inheritance.dll
+/run/media/denjay/Local Disk/Semester2/Pemrograman/Inheritance/obj/Debug/net6.0/Inheritance.pdb
+/run/media/denjay/Local Disk/Semester2/Pemrograman/Inheritance/obj/Debug/net6.0/Inheritance.genruntimeconfig.cache

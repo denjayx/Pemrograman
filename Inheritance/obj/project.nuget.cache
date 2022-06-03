@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eIz1wj2wtZmca3QQJ1Oh1feswTjEK7ORS6AwMcV/5NdZwOOdtL0QsMPKkHi1B9vC7ZZFSmf+CYCdX+16DhySAg==",
+  "success": true,
+  "projectFilePath": "/run/media/denjay/Local Disk/Semester2/Pemrograman/Inheritance/Inheritance.csproj",
+  "expectedPackageFiles": [
+    "/home/denjay/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
