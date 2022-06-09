@@ -1,0 +1,15 @@
+D:\Semester2\Pemrograman\LatihanPolymorhism\LatihanPolymorhism\obj\Debug\net6.0\LatihanPolymorphism.csproj.AssemblyReference.cache
+D:\Semester2\Pemrograman\LatihanPolymorhism\LatihanPolymorhism\obj\Debug\net6.0\LatihanPolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester2\Pemrograman\LatihanPolymorhism\LatihanPolymorhism\obj\Debug\net6.0\LatihanPolymorphism.AssemblyInfoInputs.cache
+D:\Semester2\Pemrograman\LatihanPolymorhism\LatihanPolymorhism\obj\Debug\net6.0\LatihanPolymorphism.AssemblyInfo.cs
+D:\Semester2\Pemrograman\LatihanPolymorhism\LatihanPolymorhism\obj\Debug\net6.0\LatihanPolymorphism.csproj.CoreCompileInputs.cache
+D:\Semester2\Pemrograman\LatihanPolymorhism\LatihanPolymorhism\bin\Debug\net6.0\LatihanPolymorphism.exe
+D:\Semester2\Pemrograman\LatihanPolymorhism\LatihanPolymorhism\bin\Debug\net6.0\LatihanPolymorphism.deps.json
+D:\Semester2\Pemrograman\LatihanPolymorhism\LatihanPolymorhism\bin\Debug\net6.0\LatihanPolymorphism.runtimeconfig.json
+D:\Semester2\Pemrograman\LatihanPolymorhism\LatihanPolymorhism\bin\Debug\net6.0\LatihanPolymorphism.dll
+D:\Semester2\Pemrograman\LatihanPolymorhism\LatihanPolymorhism\bin\Debug\net6.0\LatihanPolymorphism.pdb
+D:\Semester2\Pemrograman\LatihanPolymorhism\LatihanPolymorhism\obj\Debug\net6.0\LatihanPolymorphism.dll
+D:\Semester2\Pemrograman\LatihanPolymorhism\LatihanPolymorhism\obj\Debug\net6.0\refint\LatihanPolymorphism.dll
+D:\Semester2\Pemrograman\LatihanPolymorhism\LatihanPolymorhism\obj\Debug\net6.0\LatihanPolymorphism.pdb
+D:\Semester2\Pemrograman\LatihanPolymorhism\LatihanPolymorhism\obj\Debug\net6.0\LatihanPolymorphism.genruntimeconfig.cache
+D:\Semester2\Pemrograman\LatihanPolymorhism\LatihanPolymorhism\obj\Debug\net6.0\ref\LatihanPolymorphism.dll
