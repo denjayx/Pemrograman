@@ -1,0 +1,15 @@
+D:\Semester2\Pemrograman\TugasPolymorphism\TugasPolymorphism\bin\Debug\net6.0\TugasPolymorphism.exe
+D:\Semester2\Pemrograman\TugasPolymorphism\TugasPolymorphism\bin\Debug\net6.0\TugasPolymorphism.deps.json
+D:\Semester2\Pemrograman\TugasPolymorphism\TugasPolymorphism\bin\Debug\net6.0\TugasPolymorphism.runtimeconfig.json
+D:\Semester2\Pemrograman\TugasPolymorphism\TugasPolymorphism\bin\Debug\net6.0\TugasPolymorphism.dll
+D:\Semester2\Pemrograman\TugasPolymorphism\TugasPolymorphism\bin\Debug\net6.0\TugasPolymorphism.pdb
+D:\Semester2\Pemrograman\TugasPolymorphism\TugasPolymorphism\obj\Debug\net6.0\TugasPolymorphism.csproj.AssemblyReference.cache
+D:\Semester2\Pemrograman\TugasPolymorphism\TugasPolymorphism\obj\Debug\net6.0\TugasPolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester2\Pemrograman\TugasPolymorphism\TugasPolymorphism\obj\Debug\net6.0\TugasPolymorphism.AssemblyInfoInputs.cache
+D:\Semester2\Pemrograman\TugasPolymorphism\TugasPolymorphism\obj\Debug\net6.0\TugasPolymorphism.AssemblyInfo.cs
+D:\Semester2\Pemrograman\TugasPolymorphism\TugasPolymorphism\obj\Debug\net6.0\TugasPolymorphism.csproj.CoreCompileInputs.cache
+D:\Semester2\Pemrograman\TugasPolymorphism\TugasPolymorphism\obj\Debug\net6.0\TugasPolymorphism.dll
+D:\Semester2\Pemrograman\TugasPolymorphism\TugasPolymorphism\obj\Debug\net6.0\refint\TugasPolymorphism.dll
+D:\Semester2\Pemrograman\TugasPolymorphism\TugasPolymorphism\obj\Debug\net6.0\TugasPolymorphism.pdb
+D:\Semester2\Pemrograman\TugasPolymorphism\TugasPolymorphism\obj\Debug\net6.0\TugasPolymorphism.genruntimeconfig.cache
+D:\Semester2\Pemrograman\TugasPolymorphism\TugasPolymorphism\obj\Debug\net6.0\ref\TugasPolymorphism.dll
