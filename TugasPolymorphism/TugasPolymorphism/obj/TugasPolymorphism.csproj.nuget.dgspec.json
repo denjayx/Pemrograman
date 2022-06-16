@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Semester2\\Pemrograman\\TugasPolymorphism\\TugasPolymorphism\\TugasPolymorphism.csproj": {}
+    "D:\\Kuliah\\Semester 2\\Pemrograman\\TugasPolymorphism\\TugasPolymorphism\\TugasPolymorphism.csproj": {}
   },
   "projects": {
-    "D:\\Semester2\\Pemrograman\\TugasPolymorphism\\TugasPolymorphism\\TugasPolymorphism.csproj": {
+    "D:\\Kuliah\\Semester 2\\Pemrograman\\TugasPolymorphism\\TugasPolymorphism\\TugasPolymorphism.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Semester2\\Pemrograman\\TugasPolymorphism\\TugasPolymorphism\\TugasPolymorphism.csproj",
+        "projectUniqueName": "D:\\Kuliah\\Semester 2\\Pemrograman\\TugasPolymorphism\\TugasPolymorphism\\TugasPolymorphism.csproj",
         "projectName": "TugasPolymorphism",
-        "projectPath": "D:\\Semester2\\Pemrograman\\TugasPolymorphism\\TugasPolymorphism\\TugasPolymorphism.csproj",
+        "projectPath": "D:\\Kuliah\\Semester 2\\Pemrograman\\TugasPolymorphism\\TugasPolymorphism\\TugasPolymorphism.csproj",
         "packagesPath": "C:\\Users\\Denjay\\.nuget\\packages\\",
-        "outputPath": "D:\\Semester2\\Pemrograman\\TugasPolymorphism\\TugasPolymorphism\\obj\\",
+        "outputPath": "D:\\Kuliah\\Semester 2\\Pemrograman\\TugasPolymorphism\\TugasPolymorphism\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Denjay\\AppData\\Roaming\\NuGet\\NuGet.Config",

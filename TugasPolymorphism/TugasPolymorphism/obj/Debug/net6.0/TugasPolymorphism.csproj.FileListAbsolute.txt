@@ -13,3 +13,18 @@ D:\Semester2\Pemrograman\TugasPolymorphism\TugasPolymorphism\obj\Debug\net6.0\re
 D:\Semester2\Pemrograman\TugasPolymorphism\TugasPolymorphism\obj\Debug\net6.0\TugasPolymorphism.pdb
 D:\Semester2\Pemrograman\TugasPolymorphism\TugasPolymorphism\obj\Debug\net6.0\TugasPolymorphism.genruntimeconfig.cache
 D:\Semester2\Pemrograman\TugasPolymorphism\TugasPolymorphism\obj\Debug\net6.0\ref\TugasPolymorphism.dll
+D:\Kuliah\Semester 2\Pemrograman\TugasPolymorphism\TugasPolymorphism\bin\Debug\net6.0\TugasPolymorphism.exe
+D:\Kuliah\Semester 2\Pemrograman\TugasPolymorphism\TugasPolymorphism\bin\Debug\net6.0\TugasPolymorphism.deps.json
+D:\Kuliah\Semester 2\Pemrograman\TugasPolymorphism\TugasPolymorphism\bin\Debug\net6.0\TugasPolymorphism.runtimeconfig.json
+D:\Kuliah\Semester 2\Pemrograman\TugasPolymorphism\TugasPolymorphism\bin\Debug\net6.0\TugasPolymorphism.dll
+D:\Kuliah\Semester 2\Pemrograman\TugasPolymorphism\TugasPolymorphism\bin\Debug\net6.0\TugasPolymorphism.pdb
+D:\Kuliah\Semester 2\Pemrograman\TugasPolymorphism\TugasPolymorphism\obj\Debug\net6.0\TugasPolymorphism.csproj.AssemblyReference.cache
+D:\Kuliah\Semester 2\Pemrograman\TugasPolymorphism\TugasPolymorphism\obj\Debug\net6.0\TugasPolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\Semester 2\Pemrograman\TugasPolymorphism\TugasPolymorphism\obj\Debug\net6.0\TugasPolymorphism.AssemblyInfoInputs.cache
+D:\Kuliah\Semester 2\Pemrograman\TugasPolymorphism\TugasPolymorphism\obj\Debug\net6.0\TugasPolymorphism.AssemblyInfo.cs
+D:\Kuliah\Semester 2\Pemrograman\TugasPolymorphism\TugasPolymorphism\obj\Debug\net6.0\TugasPolymorphism.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 2\Pemrograman\TugasPolymorphism\TugasPolymorphism\obj\Debug\net6.0\TugasPolymorphism.dll
+D:\Kuliah\Semester 2\Pemrograman\TugasPolymorphism\TugasPolymorphism\obj\Debug\net6.0\refint\TugasPolymorphism.dll
+D:\Kuliah\Semester 2\Pemrograman\TugasPolymorphism\TugasPolymorphism\obj\Debug\net6.0\TugasPolymorphism.pdb
+D:\Kuliah\Semester 2\Pemrograman\TugasPolymorphism\TugasPolymorphism\obj\Debug\net6.0\TugasPolymorphism.genruntimeconfig.cache
+D:\Kuliah\Semester 2\Pemrograman\TugasPolymorphism\TugasPolymorphism\obj\Debug\net6.0\ref\TugasPolymorphism.dll
